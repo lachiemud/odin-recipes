@@ -1,1 +1,1 @@
-This is an Odin project assignment designed to teach me how to build a basic html structure for a webpage. I will be building a basic recipes website. This project will help to consolidate my skills with simple html tags and git commits through cmd.
+This is an Odin project assignment designed to teach me how to build a basic html structure for a webpage. I will be building a basic recipes website. This project will help to consolidate my skills with simple html elements and git commits through cmd.
