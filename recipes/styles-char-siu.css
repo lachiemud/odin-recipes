@@ -1,0 +1,28 @@
+#title{
+    font-weight: 800px;
+    text-align: center;
+    text-decoration: underline;
+    background-color: #90D5FF;
+    font-family: "Lucida console", monospace;
+}
+
+h2{
+    color: rgb(158, 69, 241);
+}
+
+ul .dash{
+    text-decoration: line-through;
+}
+
+.underline.red{
+    color: red;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+body{
+    color: rgb(0, 0, 0);
+    background: rgb(243, 234, 199);
+}
