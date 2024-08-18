@@ -1,11 +1,19 @@
 .header{
-    background-color: #90D5FF;
+    font-weight: 800px;
     text-align: center;
+    background-color: #90D5FF;
+    font-family: "Lucida console", monospace;
+    border: 4px solid black;
+    width: 400px;
+    margin:0 auto;
+
 }
 button{
     font-size: 24px;
     background-color: yellow;
 }
-.bowl{
-    font-weight: 800px;
+
+li{
+    display: flexbox;
+    margin: 0 5px;
 }
